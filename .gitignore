@@ -9,7 +9,7 @@
 # Build artifacts
 /build/
 /.xmake/
- /compile_commands.json
+/compile_commands.json
 
 # Prevent malformed test build artifacts from being committed
 *.o
